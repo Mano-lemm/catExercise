@@ -33,7 +33,7 @@ public class Felis extends Animal{
     }
 
     public void miauw(){
-        super.makeNoise("Miauw");
+        makeNoise("Miauw");
     }
 
     public void miauw(int times){
