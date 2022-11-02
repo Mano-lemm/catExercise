@@ -1,7 +1,5 @@
 package implementations.oefDrie;
 
-import javax.swing.SpinnerDateModel;
-
 import interfaces.oefDrie.Battery;
 
 public class FlashLight {
